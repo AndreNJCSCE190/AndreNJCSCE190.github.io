@@ -17,7 +17,7 @@ text-align: center;
 width: 300px;
 height: 300px;
 margin: 10px;
-border: 2px solid black; /* choose a color */
-display: block;
+border: 5px solid black; /* choose a color */
+display: square;
 margin: auto;
 }
